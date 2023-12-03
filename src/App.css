@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+}
+
+
+
+
+.add{
+  padding: 5px;
+  position: relative;
+  left: 10px;
+  top: 4px;
+  border: 1px solid black;
+}
+
+.del{
+  padding: 5px;
+  position: relative;
+  left: 10px;
+  top: 10px;
+  border: 1px solid black;
+
+}
+.box{
+  height: 595px;
+  width: 650px;
+  margin-left: 25vw;
+  background-color: rgb(127,255,212);
+  overflow-y: hidden;
+}
